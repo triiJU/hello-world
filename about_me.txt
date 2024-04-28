@@ -3,3 +3,14 @@ Using the Sprint Model, I'll gain real-world experience through project work and
 I'll integrate industry best practices to ensure high-quality work and develop effective communication and collaboration skills for teamwork. I'll also learn to present my work confidently.
 Lastly, working with cutting-edge technologies will foster innovation and adaptability, helping me stay current in a rapidly changing tech industry.
 the above is all reasons why i am participating in this internship (This is the extra line beiung added to modify/change the existing file).
+
+my goals for now includes,
+
+1. Complete courses for Python, SQL, Git, and Data Visualization.
+2. Do hands-on projects in data science and AI, focusing on machine learning.
+3. Explore advanced AI technologies like ChatGPT 4 and OpenAI API.
+4. Participate in Sprint Model projects for real-world experience.
+5. Follow coding and version control best practices.
+6. Improve communication and collaboration skills.
+7. Enhance presentation skills.
+8. Stay updated on emerging AIML trends.
